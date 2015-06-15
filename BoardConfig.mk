@@ -169,4 +169,3 @@ TW_NO_REBOOT_BOOTLOADER := true
 TW_INCLUDE_CRYPTO := true
 #TW_EXCLUDE_MTP := true
 TW_THEME := portrait_mdpi
-
